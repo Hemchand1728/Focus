@@ -2,7 +2,7 @@
 
 # Focus Desk
 
-**A personal study dashboard for Windows**
+**A personal study dashboard**
 
 Live webcam preview · Eye openness score · Audio alerts · Session timer
 
